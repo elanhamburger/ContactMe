@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ContactMe/static/css/main.0523be4b.chunk.css",
+    "main.js": "/ContactMe/static/js/main.605f2e55.chunk.js",
+    "main.js.map": "/ContactMe/static/js/main.605f2e55.chunk.js.map",
+    "runtime~main.js": "/ContactMe/static/js/runtime~main.47b0a04b.js",
+    "runtime~main.js.map": "/ContactMe/static/js/runtime~main.47b0a04b.js.map",
+    "static/js/2.881abbb5.chunk.js": "/ContactMe/static/js/2.881abbb5.chunk.js",
+    "static/js/2.881abbb5.chunk.js.map": "/ContactMe/static/js/2.881abbb5.chunk.js.map",
+    "index.html": "/ContactMe/index.html",
+    "precache-manifest.6e51243a5e8f861410424b1d70682591.js": "/ContactMe/precache-manifest.6e51243a5e8f861410424b1d70682591.js",
+    "service-worker.js": "/ContactMe/service-worker.js",
+    "static/css/main.0523be4b.chunk.css.map": "/ContactMe/static/css/main.0523be4b.chunk.css.map",
+    "static/media/add.dab0f086.svg": "/ContactMe/static/media/add.dab0f086.svg",
+    "static/media/checkbox_checked.svg": "/ContactMe/static/media/checkbox_checked.8c0b3c10.svg",
+    "static/media/checkbox_empty.svg": "/ContactMe/static/media/checkbox_empty.e4235fd9.svg",
+    "static/media/checkbox_indeterminate.svg": "/ContactMe/static/media/checkbox_indeterminate.4692534d.svg",
+    "static/media/close.777b93c6.svg": "/ContactMe/static/media/close.777b93c6.svg",
+    "static/media/edit.45b30f6a.svg": "/ContactMe/static/media/edit.45b30f6a.svg",
+    "static/media/remove.d36bd4a7.svg": "/ContactMe/static/media/remove.d36bd4a7.svg"
+  }
+}
